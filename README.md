@@ -1,1 +1,1 @@
-![a](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)
+![a](https://github.com/quimeydias/PreEntrega2-Dias/blob/main/pag.gif)
