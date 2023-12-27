@@ -1,1 +1,1 @@
-![a](https://github.com/quimeydias/PreEntrega2-Dias/blob/main/pag.gif)
+![a](https://github.com/quimeydias/PreEntrega2-Dias/blob/main/a.gif)
