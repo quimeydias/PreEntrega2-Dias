@@ -10,6 +10,5 @@
   3. Firebase
 
 ---
-
-- PreView
+## PreView
 ![a](https://github.com/quimeydias/PreEntrega2-Dias/blob/main/preview.gif)
